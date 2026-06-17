@@ -1,0 +1,27 @@
+.vista{
+    text-decoration: none;
+    color: black;
+}
+
+.span1{
+    background-color: rgb(255, 139, 119);
+    color: white;
+}
+
+.button1{
+    margin-left: 200px;
+}
+
+.border1{
+    margin-top: 50px;
+    background-color: rgb(232, 229, 229);
+    height: 300px;
+}
+
+.sesion{
+    width: 500px;
+    background-color: gray;
+    padding: auto;
+    float: right;
+  
+}
